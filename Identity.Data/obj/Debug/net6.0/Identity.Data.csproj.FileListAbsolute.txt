@@ -1,0 +1,17 @@
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.AssemblyReference.cache
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfoInputs.cache
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.AssemblyInfo.cs
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.csproj.CoreCompileInputs.cache
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.deps.json
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.runtimeconfig.json
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.dll
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Data.pdb
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Domain.dll
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\bin\Debug\net6.0\Identity.Domain.pdb
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.8CD0937C.Up2Date
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.dll
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\refint\Identity.Data.dll
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.pdb
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\Identity.Data.genruntimeconfig.cache
+D:\Projects\Pessoais\GUSTAVO\Identity\Identity\Identity.Data\obj\Debug\net6.0\ref\Identity.Data.dll
